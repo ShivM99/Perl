@@ -1,2 +1,2 @@
 # Perl
-This repository host my Perl codes
+This repository host my Perl codes.
